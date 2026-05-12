@@ -1,0 +1,13 @@
+HYPOTHESIS TEST RESULTS
+========================================
+
+T-Test Results
+T-statistic: 2.0202
+P-value: 0.0972
+
+Correlation Test
+Correlation: 0.6461
+P-value: 0.0000
+
+Regression Analysis
+R-squared Score: 0.3599
